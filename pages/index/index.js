@@ -1,2 +1,2 @@
-import IndexContainer from "./IndexContainer";
+import IndexContainer from "./indexContainer";
 export default IndexContainer;
