@@ -1,0 +1,22 @@
+{
+  "name": "deskpics-graphql",
+  "version": "1.0.0",
+  "description": "Inspirational website for people who work online to share their desk pics.",
+  "repository": "https://github.com/serranoarevalo/desk.pics-nextjs",
+  "author": "Nicolás Serrano Arévalo <itnico.las.me@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-boost": "^0.1.23",
+    "graphql": "^14.1.1",
+    "next": "^7.0.2",
+    "next-with-apollo": "^3.3.2",
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0",
+    "react-apollo": "^2.3.3"
+  },
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  }
+}
